@@ -11,7 +11,15 @@ A key stakeholder in a bike-sharing program would like to see a bike trip analys
 - Software: Tableau Desktop 2021.4.3
 
 ## Results
-![alt text](?raw=true)
+![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/customer_breakdown.png?raw=true)
+![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/gender_breakdown.png?raw=true)
+![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/checkout_time_for_users.png?raw=true)
+![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/checkout_time_by_gender.png?raw=true)
+![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/trips_by_gender.png?raw=true)
+![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/trips_by_weekday_for_each_hour.png?raw=true)
+![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/trips_by_gender_by_weekday.png?raw=true)
+
+[link to dashboard](https://public.tableau.com/app/profile/sierra.dubois/viz/bikesharing_16453883736400/NYCBikesharing?publish=yes)
 
 
 ## Summary
