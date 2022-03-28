@@ -12,7 +12,9 @@ A key stakeholder in a bikesharing program would like to see a bike trip analysi
 
 ## Results
 ![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/customer_breakdown.png?raw=true)
-- Total amount of riders is 2,344,224 with majority of them being subscribers. <br />
+- Total amount of riders is 2,344,224 with majority of them being subscribers. 
+
+<br />
 
 ![alt text](https://github.com/thehatch4815162342/bikesharing/blob/main/Images/gender_breakdown.png?raw=true)
 - Majority of riders are males. <br />
